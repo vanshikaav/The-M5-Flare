@@ -16,7 +16,7 @@ The dataset contains magnetic-field measurements of solar active regions observe
 
 **Download Dataset:**
 
-https://drive.google.com/drive/folders/10MxgP6r7tehUBvsMJT3ZL4vRwErXvRp?usp=sharing
+https://drive.google.com/drive/folders/10MxgP6r7tehUBvsMJT3ZL4vRWerXvRp_?usp=sharing
 
 The repository does not include the dataset files directly due to repository size considerations.
 
